@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://kratos-avi.github.io/Avi_Portfolio/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Explore_Interactive_Workstation-22d3ee?style=for-the-badge&logo=react&logoColor=22d3ee&labelColor=070709&color=22d3ee" alt="Live Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=22d3ee&center=true&vCenter=true&width=500&lines=AVINASH+SUHAGIYA;FULL-STACK+ENGINEER;3D+WEBGL+ENTHUSIAST;RETRO-CYBERPUNK+CREATIVE" alt="Typing SVG" />
 </p>
 
@@ -29,7 +35,7 @@ I am a Software Engineer and Creative Developer. I design and build highly inter
 <table width="100%">
   <tr>
     <td>
-      <h3>🌌 <a href="https://github.com/Kratos-avi/Avi_Portfolio">Avi_Portfolio</a></h3>
+      <h3>🌌 <a href="https://github.com/Kratos-avi/Avi_Portfolio">Avi_Portfolio</a> — <a href="https://kratos-avi.github.io/Avi_Portfolio/">Live Site</a></h3>
       <p>My flagship interactive developer portfolio and physics workstation. Features real-time WebGL mesh warping, telemetry HUD grids, retro games, and a full interactive terminal interface.</p>
       <p>
         <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" />
